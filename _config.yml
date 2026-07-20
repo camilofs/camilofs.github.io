@@ -32,9 +32,9 @@ additional_links:
 
 # About Section
 # about_title: About Me
-about_profile_image: images/profile2.jpg
+about_profile_image: images/profile24.jpg
 about_content: | # this will include new lines to allow paragraphs
- I am a research engineer at CEA Saclay since June 2024. I have a DEng in Mechanical Engineering (2019) with a focus on materials science from [Unicamp](https://www.unicamp.br/).
+ I am a research engineer at CEA Saclay since June 2024. I have a DEng in Mechanical Engineering (2019) with a focus on materials science from [Unicamp](https://www.unicamp.br/en/).
  
  My thesis focused on alloy design for aeronautical and biomedical applications. Furthermore, I have been working with multiscale simulations since 2020, mostly at the intersection of ab-initio, machine learning, and materials characterization.
  
