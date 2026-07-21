@@ -40,13 +40,13 @@ about_content: | # this will include new lines to allow paragraphs
  
  Relevant topics include:
  - Deep learning for materials characterization
- - High-throughput experiments (in-situ transmission electron microscopy, synchrotron)
+ - High-throughput experiments (in situ transmission electron microscopy, synchrotron)
  - Materials under extreme conditions (irradiation, high pressure/temperature)
  - Ab initio calculations
  - Local atomic environment analysis
  - Digital twins for materials design
  
- For more info, please refer to my CV ([pdf](./files/cv.pdf)).
+ For more info, please refer to my CV ([pdf](./files/CAFS_cv.pdf)).
  
 content:
   - title: Talks and Conferences # Title for the section
@@ -73,7 +73,7 @@ content:
   - title: Distinctions
     layout: text
     content: |
-      - Selected to represent the School of Mechanical Engineering (Unicamp) in Brazil's national best thesis competition, Prêmio CAPES de Tese (2020)
+      - Selected to represent the School of Mechanical Engineering (Unicamp) in Brazil's national best thesis competition, Prêmio CAPES de Tese (2020).
 
 # Footer
 footer_show_references: true
