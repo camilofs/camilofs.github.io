@@ -34,7 +34,7 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile24.jpg
 about_content: | # this will include new lines to allow paragraphs
- I am a research engineer at CEA Saclay since June 2024. I have a DEng in Mechanical Engineering (2019), with a focus on materials science at [Unicamp](https://www.unicamp.br/en/).
+ I have been a research engineer at CEA Saclay since June 2024. I earned a DEng in Mechanical Engineering in 2019, with a focus on materials science at [Unicamp](https://www.unicamp.br/en/).
  
  My thesis focused on alloy design for aeronautical and biomedical applications. Furthermore, I have been working with multiscale simulations since 2020, mostly at the intersection of ab initio methods, machine learning, and materials characterization.
  
@@ -52,18 +52,23 @@ content:
   - title: Talks and Conferences # Title for the section
     layout: text # Type of content section (list/text)
     content: |
+      - Sep 2026: [NuMat 2026](https://www.elsevier.com/events/conferences/all/the-nuclear-materials-conference), *Learning global distortion states in irradiated materials from synthetic electron microscopy*.
       - Mar 2026: Université Paris-Saclay, [Journées de la plateforme MOSAIC](https://indico.ijclab.in2p3.fr/event/12150/overview), *Deep learning segmentation of TEM micrographs acquired via in-situ irradiation: challenges and perspectives* ([Slides](https://indico.ijclab.in2p3.fr/event/12150/contributions/40898/attachments/27333/40729/2026_MOSAIC_CamiloSalvador.pdf))
       - Sep 2025: [FEMS Euromat 2025](https://euromat2025.sociemat.es/welcome/), *High-throughput analysis of loop dynamics in irradiated MPEAs using deep learning* ([Slides](./files/CAFS_Euromat2025_min4.pdf))
 
-  - title: Publications
+  - title: Publications (30)
     layout: text 
     content: |
-      - C. Salvador, T. Bilyk, A. Dartois, L. Vessier–Alary, E. Meslin, M-C. Marinica, *High-throughput analysis of dislocation loops in irradiated metals using Mask R-CNN* ([doi](https://doi.org/10.1016/j.micron.2025.103927))
-      - C. Salvador, H. Van Landeghem, R. Antunes, *Selection of Ti Alloys for Bio-Implants: An Application of the Ashby Approach with Conflicting Objectives* ([doi](https://doi.org/10.1002/adem.202301169))
-      - C. Salvador, E. Maia, F. Costa, J. Escobar, J. P. Oliveira, *A compilation of experimental data on the mechanical properties and microstructural features of Ti-alloys* ([doi](https://doi.org/10.1038/s41597-022-01283-9))
-      - C. Salvador, B. Zornio, C. Miranda, *Discovery of Low-Modulus Ti-Nb-Zr Alloys Based on Machine Learning and First-Principles Calculations* ([doi](https://doi.org/10.1021/acsami.0c18506))
-      - C. Salvador, E. Lopes, C. Ospina, R. Caram, *Orthorhombic martensite formation upon aging in a Ti-30Nb-4Sn alloy* ([doi](https://doi.org/10.1016/j.matchemphys.2016.08.023))
-      - For a full list of publications (29), please refer to my [Google Scholar](https://scholar.google.com/citations?user=bEZINDMAAAAJ&hl=en) profile.
+      - (2026) C. Salvador, C. Lapointe, T. Bilyk, M. Filimonov, E. Meslin, M-C. Marinica, *Distortion states as robust embeddings for quantifying and forecasting atomistic damage from electron microscopy* ([doi](https://doi.org/10.1038/s41524-026-02340-2))
+      - (2026) C. Salvador, C. Lapointe, T. Bilyk, E. Meslin, M-C. Marinica, *Deep learning in materials electron microscopy: models, applications and emerging trends* ([doi](https://doi.org/10.1088/2632-2153/ae9dea))
+      - (2025) C. Salvador, T. Bilyk, A. Dartois, L. Vessier–Alary, E. Meslin, M-C. Marinica, *High-throughput analysis of dislocation loops in irradiated metals using Mask R-CNN* ([doi](https://doi.org/10.1016/j.micron.2025.103927))
+      - (2023) C. Salvador, H. Van Landeghem, R. Antunes, *Selection of Ti Alloys for Bio-Implants: An Application of the Ashby Approach with Conflicting Objectives* ([doi](https://doi.org/10.1002/adem.202301169))
+      - (2022) C. Salvador, E. Maia, F. Costa, J. Escobar, J. P. Oliveira, *A compilation of experimental data on the mechanical properties and microstructural features of Ti-alloys* ([doi](https://doi.org/10.1038/s41597-022-01283-9))
+      - (2020) C. Salvador, B. Zornio, C. Miranda, *Discovery of Low-Modulus Ti-Nb-Zr Alloys Based on Machine Learning and First-Principles Calculations* ([doi](https://doi.org/10.1021/acsami.0c18506))
+      - For a full list of publications, please refer to my [Google Scholar](https://scholar.google.com/citations?user=bEZINDMAAAAJ&hl=en) profile.
+
+# old
+# - C. Salvador, E. Lopes, C. Ospina, R. Caram, *Orthorhombic martensite formation upon aging in a Ti-30Nb-4Sn alloy* ([doi](https://doi.org/10.1016/j.matchemphys.2016.08.023))
 
 #  - title: Preprint
 #    layout: text
@@ -73,7 +78,7 @@ content:
   - title: Distinctions
     layout: text
     content: |
-      - Selected to represent the School of Mechanical Engineering (Unicamp) in Brazil's national best thesis competition, Prêmio CAPES de Tese (2020).
+      - Selected to represent the School of Mechanical Engineering (Unicamp) in Brazil's national thesis competition, the Prêmio CAPES de Tese (2020).
 
 # Footer
 footer_show_references: true
